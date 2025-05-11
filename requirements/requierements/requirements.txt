@@ -1,5 +1,2 @@
 aiogram>=3.0.0b7
 aiohttp
-git add requirements.txt
-git commit -m "Update aiogram to 3.x for F support"
-git push
